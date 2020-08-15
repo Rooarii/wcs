@@ -1,6 +1,8 @@
 Charter of an Effective Learner
 ===============================
 
+Hi to you friend developer, my name is Rooarii regarding my profile i would say that i am **40 %** perfectionist, **40 %** rebel and **20 %** intelectual. I understand things mostly in a visual way and also by experiencing them.
+
 For the 2020 september [Wild Code School](https://www.wildcodeschool.com/fr-FR) session I commit to :
 
 ### My commitments
